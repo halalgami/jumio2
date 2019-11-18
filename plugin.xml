@@ -85,3 +85,4 @@
         <source-file src="src/android/JumioMobileSDK.java" target-dir="src/com/jumio/mobilesdk" />
     </platform>
 </plugin>
+<plugin name="lodash" spec="https://github.com/lodash/lodash.git#4.17.15" />
